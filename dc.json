@@ -2,6 +2,15 @@
       "version": "1.0",     
       "description": "Generic Data Center file example",
       "objects": [
+                         {
+                               "name": "vscode dev clients",
+                               "id": "ef809582-fa12-4f4f-bd10-5c32d39ca6df",
+                               "description": "Developers using vscode",
+                               "ranges": [
+                                                     "192.168.233.1",
+                                                     "35.157.106.64"
+                               ]              
+                          },
                           {
                                "name": "remote users",
                                "id": "e7f18b60-f22d-4f42-8dc2-050490ecf6d5",
