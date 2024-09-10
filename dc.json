@@ -7,7 +7,7 @@
                                "id": "ef809582-fa12-4f4f-bd10-5c32d39ca6df",
                                "description": "Developers using vscode",
                                "ranges": [
-                                                     "192.168.233.1",
+                                                     "81.145.222.99",
                                                      "90.226.5.166"
                                ]              
                           },
@@ -16,7 +16,7 @@
                                "id": "e7f18b60-f22d-4f42-8dc2-050490ecf6d5",
                                "description": "Example for IPv4 addresses",
                                "ranges": [
-                                                     "192.168.233.1",
+                                                     "81.145.222.99",
                                                      "172.16.0.0/24",                        
                                                      "10.1.1.2-10.1.1.10",
                                                      "94.191.136.241",
